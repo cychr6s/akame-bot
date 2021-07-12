@@ -1912,7 +1912,7 @@ pp_riu = await getBuffer(pp_user)
 
 ❏ *RANKS*
 │
-└◪› ${prefix}topleproso
+└◪› ${prefix}topgay
 *╠◪* ${prefix}topgado
 *╠◪* ${prefix}rankfeio
 *╠◪* ${prefix}rankfofo
@@ -3901,7 +3901,7 @@ console.log(e)
 reply('ocorreu um erro')
 }
 break
-case 'topleproso':
+case 'topgay':
 		if (!isRegistered) return reply(ind.noregis())
 		    		if (isLimit(sender)) return reply(ind.limitend(pusname))
 			     	await limitAdd(sender)			
@@ -3909,7 +3909,7 @@ case 'topleproso':
 try{
 d = []
 top1 = body.slice(5)
-teks = `🙅‍♂️𝐎𝐬 𝐦𝐚𝐢𝐬 𝐥𝐞𝐩𝐫𝐨𝐬𝐨𝐊𝐊𝐊𝐊🙅‍♂️\n`
+teks = `🌈𝐎𝐬 𝐦𝐚𝐢𝐬 𝐠𝐚𝐲𝐬🌈\n`
 for(i = 0; i < 5; i++) {
 r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
 teks += `❧ @${groupMembers[r].jid.split('@')[0]}\n`
